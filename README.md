@@ -12,6 +12,7 @@
   <li>"Responsive Apps with Bootstrap" Skillsoft video series w/ Axle Barr</li>
 </ul>
 
+<h3>In Progress Learning:</h3>
 <ul>
   <li>"Learn More Python the Hard Way" by Zed Shaw</li>
   <li>"Git and GitHub" Skillsoft video series w/ Kishan Iyer</li>
