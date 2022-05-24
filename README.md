@@ -20,7 +20,7 @@
 
 <h3>Other Stuff:</h3>
 
-![Atom](https://raw.githubusercontent.com/codekook/ReadMe/main/atom.svg)
+![Atom](https://raw.githubusercontent.com/codekook/ReadMe-main/master/atom.svg)
 
 ![Python](https://staging.python.org/static/community_logos/python-powered-w-70x28.png)
 
