@@ -1,7 +1,7 @@
 <h2>Hello World</h2>
 
 <h3>About Me:</h3>  
-<p>16 years in a non-technical career and I started my programming journey about almost two years ago.  I'm learning Python.  Long way to proficiency so for now just a codekook trying to figure things out.</p>
+<p>16 years in a non-technical career and I started my programming journey almost two years ago.  I'm learning Python.  Long way to proficiency so for now just a codekook trying to figure things out.</p>
 
 <em>"It ain't what you don't know that gets you into trouble.  It's what you know for sure that just ain't so."</em> Mark Twain
 
