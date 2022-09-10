@@ -13,12 +13,13 @@
   <li>"Flask in Python" Skillsoft video series w/ Kishan Iyer</li>
   <li>"Responsive Apps with Bootstrap" Skillsoft video series w/ Axle Barr</li>
   <li>"Git and GitHub" Skillsoft video series w/ Kishan Iyer</li>
+  <li>"Pythonista Track 1: Python Novice" Skillsoft video series</li>
 </ul>
 
 <h3>In Progress Learning:</h3>
 <ul>
   <li>"Learn More Python the Hard Way" by Zed Shaw</li>
-  <li>"Pythonista Track: Python Novice" Skillsoft video series</li>
+  <li>"Pythonista Track 2: Python Apprentice" Skillsoft video series</li>
 </ul>
 
 <h3>Other Stuff:</h3>
