@@ -24,7 +24,7 @@
 
 <h3>Other Stuff:</h3>
 
-![VSCode] (https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/32px-Visual_Studio_Code_1.35_icon.svg.png)
+![VSCode](https://raw.githubusercontent.com/codekook/ReadMe-main/master/Visual_Studio_Code_1.35_icon.png)
 
 ![Atom](https://raw.githubusercontent.com/codekook/ReadMe-main/master/atom.svg)
 <p>Sad to say farewell to Atom, my first text editor.</p>
