@@ -20,7 +20,11 @@
 <h3>In Progress Learning:</h3>
 <ul>
   <li>"Learn More Python the Hard Way" by Zed Shaw</li>
+  <li>Circuit Python with Rasberry Pi Pico</li>
 </ul>
+
+<h3>Deprecated Projects</h3>
+  <li>Building a Kivy App</li>
 
 <h3>Other Stuff:</h3>
 
