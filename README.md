@@ -1,9 +1,9 @@
 <h2>Hello World</h2>
 
 <h3>About Me:</h3>  
-<p>Almost 18 years in a non-technical career and I started my programming journey three years ago.  I'm learning Python and after a long journey, launched my first web app.  It is built using Flask and SqlAlchemy and hosted on PythonAnywhere.  Feel free to check it out @</p>
+<p>18 years in a non-technical career and I started my programming journey three years ago.  I'm learning Python and after a long journey, launched my first web app.  It is built using Flask and SqlAlchemy and hosted on PythonAnywhere.  Feel free to check it out @</p>
 
-**[Good Choices](https://ralphcorey.pythonanywhere.com)**
+**[Simple Chores](https://ralphcorey.pythonanywhere.com)**
 
 <em>"It ain't what you don't know that gets you into trouble.  It's what you know for sure that just ain't so."</em> Mark Twain
 
@@ -18,6 +18,7 @@
   <li>"Pythonista Track 1: Python Novice" Skillsoft</li>
   <li>"Pythonista Track 2: Python Apprentice" Skillsoft</li>
   <li>"Up and Running with Git" Talk Python Training</li>
+  <li>"Python Testing with pytest" by Brian Okken</li>
 </ul>
 
 <h3>In Progress Learning:</h3>
